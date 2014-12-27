@@ -1,15 +1,15 @@
-/////////////////////////////////////////////////////////////////////////////////
-//                                                                             //
-//  Home.java - RunForLife                                                     //
-//              Source file containing Home class with Fragment Activity       //
-//  Language:        Java                                                      //
-//  Platform:        Android SDK                                               //
-//  Course No.:      CIS-651                                                   //
-//  Assignment No.:  Final Project                                             //
-//  Author:          Ankur Pandey, SUID: 408067486, apandey@syr.edu            //
-//                   Rupan Talwar, SUID: 402408828, rutalwar@syr.edu           //
-// REFE:     www.androidhive.info/2012/05/how-to-connect-android-with-php-mysql//
-/////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                        //
+//  Home.java - RunForLife                                                                //
+//              Source file containing Home class with Fragment Activity                  //
+//  Language:        Java                                                                 //
+//  Platform:        Android SDK                                                          //
+//  Course No.:      CIS-651                                                              //
+//  Assignment No.:  Final Project                                                        //
+//  Author:          Rupan Talwar, SUID: 402408828, rutalwar@syr.edu                      //
+//                   Ankur Pandey, SUID: 408067486, apandey@syr.edu                       //
+//  References:      www.androidhive.info/2012/05/how-to-connect-android-with-php-mysql   //
+////////////////////////////////////////////////////////////////////////////////////////////
 
 package com.runforlife.runforlife;
 

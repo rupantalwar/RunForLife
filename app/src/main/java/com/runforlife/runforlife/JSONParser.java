@@ -6,8 +6,8 @@
 //  Platform:        Android SDK                                               //
 //  Course No.:      CIS-651                                                   //
 //  Assignment No.:  Final Project                                             //
-//  Author:          Ankur Pandey, SUID: 408067486, apandey@syr.edu            //
-//                   Rupan Talwar, SUID: 402408828, rutalwar@syr.edu           //
+//  Author:          Rupan Talwar, SUID: 402408828, rutalwar@syr.edu           //
+//                   Ankur Pandey, SUID: 408067486, apandey@syr.edu            //
 //                                                                             //
 /////////////////////////////////////////////////////////////////////////////////
 
